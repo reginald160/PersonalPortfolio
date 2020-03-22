@@ -1,0 +1,178 @@
+body {
+    background: #fff;
+    color: #555;
+    font-family: cursive;
+
+}
+
+
+.navbar {
+	height: 9%;
+	font-size: 16px;
+    font-weight: 300px;
+    font-family: "Montserrat", sans-serif;
+    color: grey
+    background-color:white;
+
+
+}
+
+.navbar-brand{
+	color: black;
+}
+ .navbar li a {
+ 	color: grey;
+ }
+
+ .reduce {
+ 	height: 90px;
+ 	background: white;
+ }
+
+ .bg-light {
+ 	background-color: white;
+ }
+
+.flex1{ color: white;
+	padding-top: 80px;
+
+}
+
+.flex{ color: white;
+      margin-top: 50px;
+}
+
+
+.my-works{
+padding-top: 80px;
+padding-bottom: 80px;
+
+}
+.main-banner {
+	background-color: black;
+	height:300px;
+	
+}  
+
+.bannerMain{
+	height: 250px;
+	width: 250px;
+}
+
+.banner3{
+	background-image: url(../images/banner3.jpg);
+	height:210px;
+	width: 200;
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+}
+
+.banner1, .banner2{
+	margin-top: 8%;
+	padding-top: 5%;
+	columns: white;
+	
+}
+
+.banner1,.banner2 p,h1{
+	color: white;
+}
+.Ifeanyi{
+	color: green;
+}
+
+.Box1{
+	position: relative;
+
+}
+   .text-box a{
+   	text-decoration: none;
+   	color: white;
+   }
+
+.text-box{
+	background-color: grey;
+	color:white;
+	text-align:center;
+   position: absolute;
+  top: 94%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 92%;
+  opacity: 0.5;
+
+}
+
+.panel1{
+	height: 400px;
+	padding-bottom:5px;
+}
+.lower-page{
+	height: 200px;
+}
+.ft-nav{
+	background-color: black;
+	color: grey;
+}
+
+.img{
+	  height: 300px;
+}
+
+.btn-main{
+	margin-top: 4%;
+	margin-bottom: 8%;
+}
+
+/*Contact page css begings here*/
+ form input {
+ 	border-color: 20px;
+ }
+ .address-bg{
+ 	background-image: url(../images/img7.jpg);
+	background-position: center;
+	background-size: cover;
+	color: black;
+	height: 700px;
+ }
+.green-contact{
+	color: green;
+	text-decoration: underline;
+
+}
+
+
+/*Contact page css begings here*/
+ .address{
+ 	background-color:rgb(240,240,240);
+
+ }
+ .Subjext-text{
+ 	height: 10%;
+ }
+
+ .contact{
+ 	margin-top:40px;
+ 	margin-left: 15px;
+ }
+ 
+ #cont{
+ 	color: green;
+ }
+
+iframe{
+	width:100%; 
+	margin-bottom: 7%;
+}
+
+
+	height: 300px%;
+	font-size: 16px;
+    font-weight: 300;
+    font-family: "Montserrat", sans-serif;
+}
+
+footer a {
+	color: grey;
+}
