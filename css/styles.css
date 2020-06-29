@@ -60,12 +60,12 @@ padding-bottom: 80px;
 }
 
 .banner3{
-	background-image: url(../images/banner3.jpg);
-	height:210px;
+	background-image: url("/images/bannerMain");
+	height:200px;
 	width: 200;
 	background-position: center;
 	background-size: cover;
-	position: absolute;
+	
 }
 
 .banner1, .banner2{
